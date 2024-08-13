@@ -66,7 +66,9 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
+  overflow-x: hidden !important;
 }
+
 
 /*
 1. Add the correct height in Firefox.
